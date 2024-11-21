@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/baseline_water_drop_24"
+            android:title="@string/umidade" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/baseline_device_thermostat_24"
+            android:title="@string/temperatura" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/baseline_bolt_24"
+            android:title="@string/luzsolar" />
+        <item
+            android:id="@+id/nutrientes"
+            android:icon="@drawable/baseline_query_stats_24"
+            android:title="@string/nutrientes" />
+        <item
+            android:id="@+id/ph"
+            android:icon="@drawable/baseline_scale_24"
+            android:title="@string/ph" />
+        <item
+            android:id="@+id/crescimento"
+            android:icon="@drawable/baseline_insights_24"
+            android:title="@string/crescimento" />
+    </group>
+</menu>

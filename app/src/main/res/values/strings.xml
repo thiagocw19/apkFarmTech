@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FarmTech</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Sair</string>
+
+    <string name="umidade">Umidade do Ar</string>
+    <string name="temperatura">Temperatura do Ar</string>
+    <string name="umidadesolo">Umidade do Solo</string>
+    <string name="luzsolar">Controle da Bomba</string>
+    <string name="nutrientes">Níveis de Nutrientes do Solo</string>
+    <string name="ph">PH do Solo</string>
+    <string name="crescimento">Estágio de Crescimento</string>
+    <string name="temperatura_atual">Temperatura Atual:</string>
+    <string name="email">Email</string>
+    <string name="senha">senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="temp30">Média de temperatura dos últimos 30 dias</string>
+    <string name="texto_umidade">A umidade do solo refere-se à quantidade de água presente no solo. Ela é crucial para o crescimento das plantas e pode variar muito, dependendo de fatores como tipo de solo e clima. Valores acima de 100% podem indicar solo saturado.</string>
+    <string name="desligar_bomba">Desligar Bomba</string>
+    <string name="ligar_bomba">Ligar Bomba</string>
+    <string name="bomba_info">Aqui você poderá controlar a bomba de água conforme o necessário</string>
+    <string name="graficos">Gráficos</string>
+    <string name="sensores_e_dados">Sensores e Dados</string>
+    <string name="cadastrar">Cadastrar</string>
+</resources>
